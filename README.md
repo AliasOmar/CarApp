@@ -66,8 +66,5 @@ cd CarApp
 
 
 **Developed by:** [AliasOmar]
-<<<<<<< HEAD
+
 **Date:** [14-03-2025]
-=======
-**Date:** [14-03-2025]
->>>>>>> aa7ce26 (Updated README.md)
