@@ -40,7 +40,7 @@ TaskClassObject/
 
 ### 1. **Clone / Download the Project**  
 ```sh
-git clone https://github.com/Matalias/CarApp.git
+git clone https://github.com/AliasOmar/CarApp.git
 cd CarApp
    ```
 2. Run the project using the .NET CLI:
