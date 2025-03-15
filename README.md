@@ -26,6 +26,7 @@ TaskClassObject/
 │ ├── ElectricCar.cs 
 ├── Program.cs 
 ├── CarApp.csproj 
+├── app.manifest
 ├── README.md
 ```
 
